@@ -15,7 +15,7 @@ This project is an simple introductory experiment, I wanted to practise reading 
     hbb-analysis/
     ├── README.md
     ├── requirements.txt
-    ├── analysis_no_comments.py      # main script
+    ├── analysis.py      # main script
     ├── data/
     │   ├── human_HBB.fasta          # NCBI RefSeq NM_000518.4
     │   └── chimp_HBB.fasta          # NCBI RefSeq XM_508242.5
