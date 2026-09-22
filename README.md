@@ -26,10 +26,8 @@ This project is an simple introductory experiment, I wanted to practise reading 
 
 ## Running it
 
-​```bash
-pip install -r requirements.txt
-python analysis.py
-​```
+    pip install -r requirements.txt
+    python analysis.py
 
 ## Tools:
 - Python
