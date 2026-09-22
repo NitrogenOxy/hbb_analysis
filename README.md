@@ -24,6 +24,12 @@ This project is an simple introductory experiment, I wanted to practise reading 
         │   └── hbb_comparison.png   # generated on run
         └── hbb_comparison.xlsx      # generated on run
 
+## Running it
+
+​```bash
+pip install -r requirements.txt
+python analysis.py
+​```
 
 ## Tools:
 - Python
